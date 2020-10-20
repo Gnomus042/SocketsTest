@@ -1,0 +1,8 @@
+.idea/
+cmake-build-debug/
+70mb.txt
+inet-client
+inet-server
+unix-client
+unix-server
+text.txt
